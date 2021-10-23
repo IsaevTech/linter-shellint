@@ -1,6 +1,6 @@
 # Shell Linter
 
-[![Build Status](https://ci.isaev.tech/api/badges/IsaevTech/shellint/status.svg)](https://ci.isaev.tech/IsaevTech/pylint)
+[![Build Status](https://ci.isaev.tech/api/badges/IsaevTech/shellint/status.svg)](https://ci.isaev.tech/IsaevTech/shellint)
 
 ## Usage
 
